@@ -34,5 +34,5 @@ const getDirectorySize = (directory, callback) => {
         )
     })
 }
-export {getDirectorySize}
+export {getDirectorySize};
 // END
